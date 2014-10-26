@@ -1,0 +1,17 @@
+{
+  "name": "greeklishify",
+  "version": "0.0.1",
+  "description": "Converts strings in Greek to their Greek-lish counterparts",
+  "main": "greeklishify",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "greek",
+    "greeklish",
+    "greenglish",
+    "convert"
+  ],
+  "author": "attheodo",
+  "license": "MIT"
+}
